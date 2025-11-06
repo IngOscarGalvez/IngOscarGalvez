@@ -52,7 +52,7 @@ Automatización de flujos, **PDFs con firmas digitales** y colas con Redis/Horiz
 
 ## 🧩 Proyectos Destacados (confidenciales)
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>💳 TumiPay · Motor FinTech</h3>
