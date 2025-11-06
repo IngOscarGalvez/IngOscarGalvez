@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Oscar%20Ledwing%20Ferneth%20Galvez%20Andrade%20👨‍💻&fontSize=38&fontColor=fff&animation=twinkling"/>
 </p>
 
-<h3 align="center">Senior Software Engineer · FinTech & Gobierno · Clean Architectures</h3>
+<h3 align="center">Senior Software Engineer · | Especialización en Desarrollo de Software | Arquitectura Backend | Desarrollo Full-Stack | PHP / Laravel | Node.js / NestJS | Vue.js / Inertia | API REST & SOAP | PostgreSQL / SQL Server / Redis | AWS / Docker / CI-CD | Ciberseguridad & Hacking Ético | ISO/IEC 27001</h3>
 
 <p align="center">
   <a href="mailto:oscargalvez1992@gmail.com"><img src="https://img.shields.io/badge/Email-oscargalvez1992%40gmail.com-red?logo=gmail" /></a>
