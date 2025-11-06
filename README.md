@@ -1,6 +1,6 @@
 <!-- Header animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Oscar%20Galvez%20👨‍💻&fontSize=38&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Oscar%20Ledwing%20Ferneth%20Galvez%20Andrade%20👨‍💻&fontSize=38&fontColor=fff&animation=twinkling"/>
 </p>
 
 <h3 align="center">Senior Software Engineer · FinTech & Gobierno · Clean Architectures</h3>
