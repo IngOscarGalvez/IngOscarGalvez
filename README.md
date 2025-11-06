@@ -1,171 +1,168 @@
-<!-- Banner / snake -->
+<!-- Header animado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IngOscarGalvez/IngOscarGalvez/output/snake.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Oscar%20Galvez%20👨‍💻&fontSize=38&fontColor=fff&animation=twinkling"/>
 </p>
 
-<h1 align="center">✨ ¡Hola, soy <a href="https://www.linkedin.com/in/oscar-ledwing-ferneth-galvez-andrade/">Oscar Ledwing Ferneth Galvez Andrade</a>! ✨</h1>
-<h3 align="center">Ingeniero de Software Senior · Backend & Arquitecto de Soluciones · Full-Stack Developer</h3>
+<h3 align="center">Senior Software Engineer · FinTech & Gobierno · Clean Architectures</h3>
 
 <p align="center">
   <a href="mailto:oscargalvez1992@gmail.com"><img src="https://img.shields.io/badge/Email-oscargalvez1992%40gmail.com-red?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/oscar-ledwing-ferneth-galvez-andrade"><img src="https://img.shields.io/badge/LinkedIn-Oscar%20Galvez-0A66C2?logo=linkedin" /></a>
-  <a href="https://github.com/IngOscarGalvez"><img src="https://img.shields.io/badge/GitHub-IngOscarGalvez?logo=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=oscar-galvez&label=Profile%20views&color=blueviolet" />
+  <a href="https://github.com/IngOscarGalvez"><img src="https://img.shields.io/badge/GitHub-IngOscarGalvez-181717?logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=IngOscarGalvez&label=Profile%20views&color=blueviolet" />
 </p>
 
 ---
 
-## 🧭 Sobre mí
-> 💻 +10 años construyendo soluciones **escalables, seguras y elegantes** para **FinTech** y **Gobierno**.  
-> 🧩 Patrones: **Clean Architecture, DDD, CQRS, TDD**.  
-> ⚙️ Me enfoco en **APIs**, **procesos asíncronos**, **observabilidad** y **automatización**.
+## 🧭 Sobre mí  
+
+💻 Ingeniero de Software Senior con más de **10 años de experiencia** creando soluciones **escalables, seguras y mantenibles** para los sectores **FinTech** y **Gobierno**.  
+
+🧩 Apasionado por la **arquitectura limpia**, el **diseño de dominio (DDD)** y la **automatización inteligente**.  
+⚙️ Especializado en **APIs de alto rendimiento**, **procesamiento asíncrono**, **observabilidad**, y **flujos dinámicos de negocio**.  
+🚀 Actualmente construyo plataformas en **Laravel, Node.js, y AWS** que mueven miles de transacciones en tiempo real.
 
 ---
 
-## 🧰 Tech Stack (con logos)
+## 🧰 Tech Stack  
 
-<!-- Bloque de logos principal -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,react,html,css,tailwind,java,spring,go,nodejs,nestjs,express,docker,kubernetes,aws,azure,gcp,redis,postgres,mysql,mongodb,sqlite,linux,git,githubactions,jenkins" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,react,tailwind,java,spring,go,nodejs,nestjs,docker,kubernetes,aws,azure,gcp,redis,postgres,mysql,mongodb,linux,git,githubactions&theme=light"/>
 </p>
 
-<!-- Badges por categoría -->
-<details>
-<summary><b>Backend</b> · Laravel · Node/Nest · Spring Boot · Go</summary>
-  
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngOscarGalvez&layout=compact&theme=react&hide_border=true&bg_color=00000000&text_color=333" />
 </p>
-</details>
-
-<details>
-<summary><b>Frontend</b> · Vue 3 · Inertia · React/React Native · Tailwind</summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inertia.js-592EC1?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>Data & Infra</b> · SQL/NoSQL · Contenedores · Cloud · CI/CD</summary>
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>Seguridad & Calidad</b> · ISO/IEC 27001 · JWT/OAuth2 · TDD</summary>
-
-<p>
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-0A0A0A?logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-EB5424?logo=openid&logoColor=white" />
-  <img src="https://img.shields.io/badge/TDD-2C3E50?logo=testcafe&logoColor=white" />
-</p>
-</details>
 
 ---
 
-## 💼 Experiencia (resumen)
+## 💼 Experiencia
 
-- 🏦 **TumiPay (FinTech) – Senior Software Engineer** · *Jul 2025 – Actualidad*  
-  APIs de **PayIn/PayOut**, conciliación, integraciones bancarias, dashboards, tiempo real.  
-  *Stack:* Laravel, Node.js, PostgreSQL, Redis, AWS, Docker.
+🏦 **TumiPay (FinTech)** · *Senior Software Engineer*  
+🗓️ Jul 2025 – Actualidad  
+Desarrollo de **APIs PayIn/PayOut**, integraciones bancarias y dashboards financieros.  
+🧠 *Stack:* Laravel · Node.js · PostgreSQL · Redis · AWS · Docker
 
-- 🇨🇴 **Cancillería de Colombia – Asesor TI (Plataforma de Viáticos)** · *Nov 2024 – Actualidad*  
-  Flujos dinámicos, **PDF con firmas digitales**, Graph API, colas con Redis/Horizon.  
-  *Stack:* Laravel 10, Vue 3, Inertia.js, SQL Server.
+🇨🇴 **Cancillería de Colombia** · *Asesor TI (Plataforma de Viáticos)*  
+🗓️ Nov 2024 – Actualidad  
+Automatización de flujos, **PDFs con firmas digitales** y colas con Redis/Horizon.  
+🧠 *Stack:* Laravel 10 · Vue 3 · Inertia.js · SQL Server
 
-- 🌎 **Netmetrix Chile – Sr. Dev** · *Jul 2023 – Abr 2025*  
-  **DDD/CQRS**, microservicios Spring Boot, Kafka/RabbitMQ, CI/CD en AWS/Azure.  
+🌎 **Netmetrix Chile** · *Sr. Developer*  
+🗓️ Jul 2023 – Abr 2025  
+**DDD/CQRS**, microservicios con Kafka, CI/CD en AWS/Azure.  
+🧠 *Stack:* Java 17 · Spring Boot · Kubernetes
 
 ---
 
-## 🧩 Mini-Cards de Proyectos (confidenciales, sin repositorios)
-> **Nota:** por NDA/Confidencialidad no se publican repos; aquí un vistazo ejecutivo a retos/impacto.
+## 🧩 Proyectos Destacados (confidenciales)
 
 <table>
   <tr>
-    <td>
-      <b>💳 TumiPay · Motor FinTech</b><br/>
-      <sub>Pagos empresariales en tiempo real</sub><br/><br/>
-      ▹ PayIn/PayOut · conciliación bancaria<br/>
-      ▹ Integración bancos & billeteras · antifraude<br/>
-      ▹ Observabilidad · dashboards y alertas<br/>
-      <br/><b>Stack:</b> Laravel · Node.js · Redis · PostgreSQL · AWS
+    <td width="50%" valign="top">
+      <h3>💳 TumiPay · Motor FinTech</h3>
+      <ul>
+        <li>Pagos empresariales en tiempo real</li>
+        <li>Integración con bancos y antifraude</li>
+        <li>Observabilidad, dashboards y alertas</li>
+      </ul>
+      <b>Stack:</b> Laravel · Node.js · Redis · PostgreSQL · AWS
     </td>
-    <td>
-      <b>🗂️ Viáticos Cancillería</b><br/>
-      <sub>Comisiones Dipl. & Legalizaciones</sub><br/><br/>
-      ▹ Flujos dinámicos & asignaciones por estado<br/>
-      ▹ PDFs con firmas digitales · Graph API<br/>
-      ▹ Jobs/colas para reportes & notificaciones<br/>
-      <br/><b>Stack:</b> Laravel 10 · Vue 3 · Inertia · SQL Server · Redis
+    <td width="50%" valign="top">
+      <h3>🗂️ Viáticos Cancillería</h3>
+      <ul>
+        <li>Flujos dinámicos y asignaciones automáticas</li>
+        <li>PDFs con firmas digitales · Graph API</li>
+        <li>Jobs, colas y notificaciones automáticas</li>
+      </ul>
+      <b>Stack:</b> Laravel 10 · Vue 3 · SQL Server
     </td>
   </tr>
   <tr>
-    <td>
-      <b>🧱 Netmetrix · Microservicios</b><br/>
-      <sub>Arquitectura distribuida</sub><br/><br/>
-      ▹ DDD/CQRS · mensajería (Kafka/RabbitMQ)<br/>
-      ▹ Despliegue Docker/K8s · GitHub Actions/Jenkins<br/>
-      ▹ Alta disponibilidad & resiliencia<br/>
-      <br/><b>Stack:</b> Java 17 · Spring Boot · K8s · AWS/Azure
+    <td width="50%" valign="top">
+      <h3>🧱 Netmetrix · Microservicios</h3>
+      <ul>
+        <li>Arquitectura DDD/CQRS distribuida</li>
+        <li>Mensajería con Kafka/RabbitMQ</li>
+        <li>Despliegue automatizado Docker/K8s</li>
+      </ul>
+      <b>Stack:</b> Java 17 · Spring Boot · Kubernetes
     </td>
-    <td>
-      <b>🔐 Cumplimiento & Seguridad</b><br/>
-      <sub>ISO/IEC 27001 · APIs seguras</sub><br/><br/>
-      ▹ Políticas · trazabilidad · cifrado en tránsito/rep.<br/>
-      ▹ OAuth2/JWT · hardening de servicios<br/>
-      ▹ Auditoría & logging estructurado<br/>
-      <br/><b>Stack:</b> OpenID · OAuth2 · JWT · SIEM
+    <td width="50%" valign="top">
+      <h3>🔐 Cumplimiento & Seguridad</h3>
+      <ul>
+        <li>ISO/IEC 27001 · Trazabilidad y cifrado</li>
+        <li>OAuth2/JWT · Hardening de servicios</li>
+        <li>Auditoría & Logging estructurado</li>
+      </ul>
+      <b>Stack:</b> OpenID · OAuth2 · JWT · SIEM
     </td>
   </tr>
 </table>
 
+---
 
-## 🏆 Certificaciones
-- Auditor Interno **ISO/IEC 27001:2022**
-- Especializacion de Software (UNIMINUTO) - Postgrado
+## 🎓 Certificaciones
+
+- 🛡️ **Auditor Interno ISO/IEC 27001:2022**
+- 🧩 **Especialización en Software – UNIMINUTO**
+- 🎓 **Platzi Academy (2020–2025):**
+  - Go Intermedio: Programación Orientada a Objetos y Concurrencia  
+  - Backend con NestJS y Documentación con Swagger  
+  - API REST con PHP y Laravel  
+  - Testing con Laravel y TDD  
+  - SPA con Inertia y Vue.js  
+  - Git y GitHub Profesional  
+  - Laravel Avanzado y Eloquent ORM  
+  - Algoritmos, Python y Complejidad Algorítmica  
+  - Inglés Básico A1 y Conversaciones Cortas  
+  - Estrategias para Aprender Inglés Online  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platzi-Certified-98CA3F?logo=platzi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO%2027001-Auditor%20Interno-blue" />
+</p>
 
 ---
 
 ## 🧠 Filosofía
-> “El mejor código no solo funciona: **enseña, evoluciona y transforma**.”
+
+<blockquote align="center">
+  <i>"El mejor código no solo funciona: enseña, evoluciona y transforma."</i>  
+  <br>— <b>Oscar Galvez</b>
+</blockquote>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IngOscarGalvez&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IngOscarGalvez&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## 📬 Contacto
+
 <p align="center">
   <a href="mailto:oscargalvez1992@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-red?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/oscar-ledwing-ferneth-galvez-andrade"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?logo=linkedin" /></a>
-  <a href="https://github.com/IngOscarGalvez"><img src="https://img.shields.io/badge/GitHub-IngOscarGalvez?logo=github" /></a>
+  <a href="https://github.com/IngOscarGalvez"><img src="https://img.shields.io/badge/GitHub-IngOscarGalvez-181717?logo=github" /></a>
+</p>
+
+---
+
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IngOscarGalvez/IngOscarGalvez/output/snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <b>✨ Crafted with passion by Oscar Galvez · Senior Software Engineer ✨</b>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e3c72,100:2a5298&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,100:203a43&section=footer"/>
 </p>
