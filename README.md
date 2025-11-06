@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:oscargalvez1992@gmail.com"><img src="https://img.shields.io/badge/Email-oscargalvez1992%40gmail.com-red?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/oscar-ledwing-ferneth-galvez-andrade"><img src="https://img.shields.io/badge/LinkedIn-Oscar%20Galvez-0A66C2?logo=linkedin" /></a>
-  <a href="https://github.com/IngOscarGalvez/IngOscarGalvez"><img src="https://img.shields.io/badge/GitHub-IngOscarGalvez?logo=github" /></a>
+  <a href="https://github.com/IngOscarGalvez"><img src="https://img.shields.io/badge/GitHub-IngOscarGalvez?logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=oscar-galvez&label=Profile%20views&color=blueviolet" />
 </p>
 
@@ -146,25 +146,6 @@
   </tr>
 </table>
 
----
-
-## 📊 Métricas & Trofeos
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=oscar-galvez&show_icons=true&theme=radical&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oscar-galvez&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-galvez&layout=compact&theme=radical" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=oscar-galvez&theme=darkhub&margin-w=15&no-frame=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscar-galvez&theme=transparent" />
-</p>
-
----
 
 ## 🏆 Certificaciones
 - Auditor Interno **ISO/IEC 27001:2022**
@@ -183,7 +164,7 @@
 <p align="center">
   <a href="mailto:oscargalvez1992@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-red?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/oscar-ledwing-ferneth-galvez-andrade"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?logo=linkedin" /></a>
-  <a href="https://github.com/oscar-galvez"><img src="https://img.shields.io/badge/GitHub-oscar--galvez-181717?logo=github" /></a>
+  <a href="https://github.com/IngOscarGalvez"><img src="https://img.shields.io/badge/GitHub-IngOscarGalvez?logo=github" /></a>
 </p>
 
 <!-- Footer -->
