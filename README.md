@@ -149,9 +149,7 @@
 
 ## 🏆 Certificaciones
 - Auditor Interno **ISO/IEC 27001:2022**
-- Curso Profesional de **Git & GitHub**
-- **API REST** & Seguridad de la Información
-- (En curso) **Arquitectura de Microservicios**
+- Especializacion de Software (UNIMINUTO) - Postgrado
 
 ---
 
