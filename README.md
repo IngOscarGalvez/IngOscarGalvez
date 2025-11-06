@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:oscargalvez1992@gmail.com"><img src="https://img.shields.io/badge/Email-oscargalvez1992%40gmail.com-red?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/oscar-ledwing-ferneth-galvez-andrade"><img src="https://img.shields.io/badge/LinkedIn-Oscar%20Galvez-0A66C2?logo=linkedin" /></a>
-  <a href="https://github.com/oscar-galvez"><img src="https://img.shields.io/badge/GitHub-oscar--galvez-181717?logo=github" /></a>
+  <a href="https://github.com/IngOscarGalvez/IngOscarGalvez"><img src="https://img.shields.io/badge/GitHub-IngOscarGalvez?logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=oscar-galvez&label=Profile%20views&color=blueviolet" />
 </p>
 
