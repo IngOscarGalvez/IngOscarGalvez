@@ -1,7 +1,6 @@
 <!-- Banner / snake -->
 <p align="center">
-  <!-- If you enable the GitHub Action below, this snake will render from your own repo -->
-  <img src="https://raw.githubusercontent.com/oscar-galvez/oscar-galvez/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/IngOscarGalvez/IngOscarGalvez/output/snake.svg" alt="snake animation" />
 </p>
 
 <h1 align="center">✨ ¡Hola, soy <a href="https://www.linkedin.com/in/oscar-ledwing-ferneth-galvez-andrade/">Oscar Ledwing Ferneth Galvez Andrade</a>! ✨</h1>
