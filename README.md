@@ -29,11 +29,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,react,tailwind,java,spring,go,nodejs,nestjs,docker,kubernetes,aws,azure,gcp,redis,postgres,mysql,mongodb,linux,git,githubactions&theme=light"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngOscarGalvez&layout=compact&theme=react&hide_border=true&bg_color=00000000&text_color=333" />
-</p>
-
 ---
 
 ## 💼 Experiencia
@@ -132,16 +127,6 @@ Automatización de flujos, **PDFs con firmas digitales** y colas con Redis/Horiz
   <br>— <b>Oscar Galvez</b>
 </blockquote>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IngOscarGalvez&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IngOscarGalvez&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 📬 Contacto
 
